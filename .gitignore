@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# PDF build artifacts (optional, keep if you want final PDFs tracked)
+*.pdf
+
+# Temporary backup files
+*~
+*.bak
+*.tmp
+*.swp
+
+# Overleaf local sync folder (if any)
+.overleaf
+
+# VS Code settings (optional)
+.vscode/
+*.code-workspace
