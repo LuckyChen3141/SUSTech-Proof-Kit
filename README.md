@@ -21,12 +21,14 @@ A handy starter kit for **Southern University of Science and Technology (SUSTech
 
 ## 🗂 **Contents**
 
-| Proof Type | PDF Example | LaTeX `.tex` | Word `.docx` |
-| --- | --- | --- | --- |
-| 🎓 Scholarship Proof | `proofs/ScholarshipProof_FinancialAidOffice.pdf` | `ScholarshipProof-FinancialAidOffice.tex` | `ScholarshipProof-FinancialAidOffice.docx` |
-| 🏅 Sports Awards Proof | `proofs/SportsAwardsProof_SportsCenter.pdf` | `SportsAwardsProof-SportsCenter.tex` | `SportsAwardsProof-SportsCenter.docx` |
-| 🎓 Admission Scholarship Proof | `proofs/SUSTechAdmissionScholarshipProof_AdmissionOffice.pdf` | `SUSTechAdmissionScholarshipProof-AdmissionOffice.tex` | `SUSTechAdmissionScholarshipProof-AdmissionOffice.docx` |
-| 🤝 Volunteer Service Proof | `proofs/SUSTechVolunteerProof-SUSTechVolunteerAssociation.pdf` | `SUSTechVolunteerProof-SUSTechVolunteerAssociation.tex` | `SUSTechVolunteerProof-SUSTechVolunteerAssociation.docx` |
+| Proof Type | Files (`.pdf` / `.tex` / `.docx`) |
+| --- | --- |
+| 🎓 Scholarship Proof | `proofs/ScholarshipProof-FinancialAidOffice` |
+| 🏅 Sports Awards Proof | `proofs/SportsAwardsProof-SportsCenter` |
+| 🎓 Admission Scholarship Proof | `proofs/SUSTechAdmissionScholarshipProof-AdmissionOffice` |
+| 🤝 Volunteer Service Proof | `proofs/SUSTechVolunteerProof-SUSTechVolunteerAssociation` |
+
+> ✅ **Note:** Each file base name includes **all three formats**: `.pdf`, `.tex`, and `.docx`.
 
 ---
 
