@@ -7,42 +7,51 @@ A handy starter kit for **Southern University of Science and Technology (SUSTech
 ## 📌 **What's included?**
 
 - ✅ **LaTeX template (`main.tex`)** — easy to customize and compile.
-- ✅ **Sample proof PDFs** — You need to print and bring/email to each center for official stamping (**盖章**).
+- ✅ **Sample proof PDFs** — Just samples, modify Latex or Word Template, then email/print and bring to each center for official stamping (**盖章**).
 - ✅ **Word `.docx` versions** — for students who prefer editing in Microsoft Word.
+
+---
+
+## 📑 **Overleaf Online View**
+
+📎 **Preview and download online (Overleaf):**  
+[👉 Click to view on Overleaf](https://www.overleaf.com/read/kxgcyytxrkqf#8b3bc4)
 
 ---
 
 ## 🗂 **Contents**
 
-| Proof Type | File |
-| --- | --- |
-| 🎓 Scholarship Proof | `proofs/ScholarshipProof_FinancialAidOffice.pdf` |
-| 🏅 Sports Awards Proof | `proofs/SportsAwardsProof_SportsCenter.pdf` |
-| 🎓 Admission Scholarship Proof | `proofs/SUSTechAdmissionScholarshipProof_AdmissionOffice.pdf` |
-| 🤝 Volunteer Service Proof | `proofs/SUSTechVolunteerProof-SUSTechVolunteerAssociation.pdf` |
+| Proof Type | PDF Example | LaTeX `.tex` | Word `.docx` |
+| --- | --- | --- | --- |
+| 🎓 Scholarship Proof | `proofs/ScholarshipProof_FinancialAidOffice.pdf` | `ScholarshipProof-FinancialAidOffice.tex` | `ScholarshipProof-FinancialAidOffice.docx` |
+| 🏅 Sports Awards Proof | `proofs/SportsAwardsProof_SportsCenter.pdf` | `SportsAwardsProof-SportsCenter.tex` | `SportsAwardsProof-SportsCenter.docx` |
+| 🎓 Admission Scholarship Proof | `proofs/SUSTechAdmissionScholarshipProof_AdmissionOffice.pdf` | `SUSTechAdmissionScholarshipProof-AdmissionOffice.tex` | `SUSTechAdmissionScholarshipProof-AdmissionOffice.docx` |
+| 🤝 Volunteer Service Proof | `proofs/SUSTechVolunteerProof-SUSTechVolunteerAssociation.pdf` | `SUSTechVolunteerProof-SUSTechVolunteerAssociation.tex` | `SUSTechVolunteerProof-SUSTechVolunteerAssociation.docx` |
 
 ---
 
 ## ⚙️ **How to use**
 
-1. **Check instructions**
-   - Find the official email or secretary contact for each office.
-   - Or print and visit the office to get detailed instructions and the official stamp (**盖章**).
+- **First, fill in your information**, then send the PDF to the **official email** or the **corresponding secretary** for confirmation and the official stamp.  
+  👉 请先填写好信息，然后通过邮件发送 PDF 给各中心的官方邮箱或相关秘书确认,后盖章。
 
-2. **Customize if needed**
-   - Edit the LaTeX `main.tex` for updates.
-   - Use **XeLaTeX** to compile for full Chinese character support.
-   - Or directly use the Word templates.
+- **If you do not receive a timely reply**, print the document and visit the office in person to get detailed instructions and the official stamp (**盖章**).  
+  👉 如果未及时收到回复，请打印文件并线下到办公室咨询并盖章。
 
-3. **Language help**
-   - You’re encouraged to book **语言指导服务** with the [SUSTech Center for Language Education (CLE)](https://cle.sustech.edu.cn/) — they’re very supportive with all kinds of application documents.
+- **Note:** Some centers (e.g., Sports Center) may prefer bilingual formatting: one line in Chinese, one line in English.
+
+- **For full Chinese support**, compile with **XeLaTeX**, or use the provided Word templates.  
+  👉 如需中文支持，请使用 XeLaTeX 编译；或直接使用提供的 Word 模板。
+
+- **Language help:**  
+  You’re encouraged to book **语言指导服务** with the [SUSTech Center for Language Education (CLE)](https://cle.sustech.edu.cn/) — they are very helpful with all kinds of application materials!
 
 ---
 
 ## ⚠️ **Disclaimer**
 
-> This kit is provided **as a personal reference**. Please verify final content and requirements with each relevant office.  
-> **本文件仅供个人申请参考，请最终以各部门实际要求为准。**
+> This kit is provided **as a personal reference only**. Please verify final content and requirements with each relevant office.  
+> **本文件仅供个人申请参考，请最终以各部门实际要求为准，使用后果由使用者自行负责。**
 
 ---
 
@@ -53,6 +62,6 @@ May your efforts be rewarded with smooth applications and great success ahead!
 
 ---
 
-**Drafted by Lucky Chen** 
+**Drafted by Lucky Chen**
 
-✨ If you find this helpful, please **give this repository a ⭐️** to support more students!
+⭐️ If this repo helps you, please **give it a star** on GitHub → [Sustech-Proof-Kit](https://github.com/LuckyChen3141/Sustech-Proof-Kit)
